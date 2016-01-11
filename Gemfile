@@ -7,6 +7,7 @@ gem 'redcarpet'
 gem 'middleman-blog'
 gem 'middleman-blog-similar'
 gem 'builder'
+gem 'middleman-s3_sync'
 
 group :test do
   gem 'rspec'
