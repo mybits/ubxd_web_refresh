@@ -1,11 +1,11 @@
 .site-brand {
   @extend .container;
   box-sizing: border-box;
-  padding: 16px 20px 10px;
+  padding: 16px 20px 6px;
 
   @include breakpoint($tablet-breakpoint) {
     float: left;
-    padding: 16px 20px;
+    padding: 16px 20px 14px;
   }
 }
 
@@ -19,5 +19,13 @@
 
   @include breakpoint($desktop-breakpoint) {
     font-size: 2em;
+  }
+}
+
+.site-brand__image {
+  height: 24px;
+
+  @include breakpoint($desktop-breakpoint) {
+    height: 36px;
   }
 }
