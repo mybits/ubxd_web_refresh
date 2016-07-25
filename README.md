@@ -33,6 +33,6 @@ Using [BrowserStack](https://www.browserstack.com) for compability testing
 ## Blog CSS Features
   Adding a line with emphasis directly under an image will style it as a caption:
   ```
-  ![]([image_url])
+  ![](image_url)
   *Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod.*
   ```
