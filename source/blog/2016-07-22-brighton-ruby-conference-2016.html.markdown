@@ -37,11 +37,6 @@ Going back into the short but fascinating history of computing, John talked abou
 John's point is that many languages still used today (C, namely) are still based on languages that had a very specific design for a bespoke machine architecture, and this can be unhelpful for developing for modern computers. OOP should have nothing to do with the underlying technology. Instead, it should be recognised as a technique for deffering logic to make code more maintainable, readable, and easier to write.
 
 ## The Function of Bias / [Sara Simon](https://twitter.com/sarambsimon)
-- From english degree to software dev
-- Works for public radio that previously was getting a bit antiquated
-- Possibility of treated publication like code (e.g. with error checks, and a defined structure)
-- IDE for articles?
-- Kickstarter for narative IDE
 
 Sara studied creative writing before becoming a developer, and brought her interesting perspectives on the similarities between developing and journalism to the table, particulary the unavoidable effect of bias that permeates both industries.
 
@@ -58,7 +53,9 @@ Sara argued that we now have a global awareness that our work is shared and has 
 
 Sara stipulated that we could draw many more people into software development if as an industry we could come to a similar code of conduct, making collaboration and relationships easier, and improving the environment of customers and developers alike.
 
-In addition to the above, she also explored what elements of typical software environments she was also intereseted in applying to journalism. Pairing on reports is a great way to mitigate bias, or more simply to just catch spelling mistakes early. Crowdsourcing journalism could mean
+In addition to the above, she also explored what elements of typical software environments she was also intereseted in applying to journalism. Pairing on reports is a great way to mitigate bias, or more simply to just catch spelling mistakes early. Crowdsourcing journalism could mean letting more people give input into documents (like Wikipeidia), which could decrease bias and increase reliability, or open the industry up to more collaboration between journalists (e.g. Stack Overflow).
+
+Sara concluded confident that as we reduce the bias we introduce to our products, and recognise our software's influence on the world, we'll be in a position to make even better products.
 
 ## Hubs and Spokes and Stock§ets / [Patrick McKenzie](https://twitter.com/patio11)
 - Starfighter
